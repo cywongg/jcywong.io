@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Your Name</title>
-    <link>http://localhost:1313/post/</link>
+    <link>https://cywongg.github.io/jcywong.io/post/</link>
     <description>Recent content in Posts on Your Name</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 01 Jul 2025 19:51:56 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://cywongg.github.io/jcywong.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Sidebar Test</title>
-      <link>http://localhost:1313/post/my-first-sidebar-test/</link>
+      <link>https://cywongg.github.io/jcywong.io/post/my-first-sidebar-test/</link>
       <pubDate>Tue, 01 Jul 2025 19:51:56 +0800</pubDate>
-      <guid>http://localhost:1313/post/my-first-sidebar-test/</guid>
+      <guid>https://cywongg.github.io/jcywong.io/post/my-first-sidebar-test/</guid>
       <description>&lt;p&gt;This is a sample post to test sidebar tag and category functionality in Hugo with the Tranquilpeak theme.&lt;/p&gt;</description>
     </item>
   </channel>
